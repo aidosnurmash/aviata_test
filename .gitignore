@@ -1,4 +1,3 @@
-/venv/
 dump.rdb
 .idea
 celerybeat-schedule
